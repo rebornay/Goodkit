@@ -1,2 +1,2 @@
-Coded with HTML & CSS only
+Coded with HTML & CSS 
 Inspiration: saaslandingpage.com
